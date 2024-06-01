@@ -7,6 +7,7 @@ OBA installation
 	- Alberto M. Figueroa Medina
 	- Ivette Cruzado
 	- Juan Martinez
+ 	- Leslie Marrero 
 	- Joshua Santiago
 	- Alonso Velasquez
 ## 1. Introduction
